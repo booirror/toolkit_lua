@@ -154,5 +154,4 @@ else
     json = nil
 end
 
-print(type(json))
 return json
